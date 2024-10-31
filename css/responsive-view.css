@@ -1,0 +1,54 @@
+#test label, #test input {
+    display: inline-block;
+}
+#test input {
+     width: 50px;
+}
+
+#test {
+    display: none;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    top:0;
+    left: 0;
+    z-index: 100;
+}
+
+#test #responsive-images {
+    margin: auto;
+    display:block;
+    margin-top:64px;
+}
+
+#test .responsiveview {
+    background-color: #000000;
+    color: #ffffff;
+    position: fixed;
+    width: 100%;
+    height: 32px;
+    top: 32px;
+}
+#test .responsiveview div:first-child{padding-left: 180px;}
+#test .responsiveview div:last-child{margin-right: 25px;}
+
+#test .responsiveview div  {
+    display: inline-block;
+}
+#test #responsive-close {
+    float: right;
+}
+
+#test #responsive-frame {
+    width: 100%;
+    height: 100%;
+}
+#test #responsive-images {
+    padding: 111px 23px 107px 27px;
+    background-image:url(../images/iphone5-portrait.png);
+    background-repeat: no-repeat;
+    background-size: 370px 785px;
+}
+
+

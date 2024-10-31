@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: responsive-view\n"
+"POT-Creation-Date: 2014-06-23 16:58+0100\n"
+"PO-Revision-Date: 2014-06-24 10:52+0100\n"
+"Last-Translator: Garcia Guillaume <G.garcia@fredel.fr>\n"
+"Language-Team:  <contact@fredel.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr_FR\n"
+"X-Poedit-KeywordsList: _e;__\n"
+
+msgid "Responsive View"
+msgstr "Responsive View"
+
+msgid "Preview mobile version"
+msgstr "Voir les vues mobiles"
+
+msgid "Device"
+msgstr "Appareil"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Exit"
+msgstr "Quitter"
+
+msgid "Landscape"
+msgstr "Paysage"
+
+msgid "Portrait"
+msgstr "Portrait"
